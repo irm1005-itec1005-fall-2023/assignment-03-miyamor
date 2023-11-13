@@ -108,4 +108,4 @@ function clearCompletedTasks() {
 //  addToDoItem("Test ToDo"); // This should add a new todo item to the array
 //  console.log(todoItems); // This should show the todo item you added
 //  removeToDoItem(0); // This should remove the todo item with ID 0 from the array
-//  markToDoItemAsCompleted(0); // This should mark the todo item with ID 0 as completed
+//  markToDoItemAsCompleted(0); // This should mark the todo i
